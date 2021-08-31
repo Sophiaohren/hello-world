@@ -15,3 +15,5 @@ mkdir my_namespace
         "pattern": "Hello world!"
     }
 }
+
+synth generate my_namespace/
